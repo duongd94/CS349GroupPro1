@@ -6,7 +6,6 @@
                            75px 75px 75px 75px;
     grid-template-rows: 75px 75px 75px 75px
                         75px 75px 75px 75px;
-    position: center;
     grid-gap: 10px;
     background-color: #fff;
     color: #444
